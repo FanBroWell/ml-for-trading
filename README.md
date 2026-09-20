@@ -96,6 +96,7 @@
 * [Multi Scenario Financial Planning via Deep Reinforcement Learning AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516480) - Gordon Irlam (2020)
 * [G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning](https://arxiv.org/abs/2002.10990) - Matthew Dixon, Igor Halperin (2020)
 * [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YeY.4483.pdf) - Yunan Ye, Hengzhi Pei, Boxin Wang, Pin-Yu Chen, Yada Zhu, Jun Xiao, Bo Li (2020)
+* [CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets](https://arxiv.org/abs/2609.14205) - Yu Peng, Matloob Khushi, Josiah Poon (ICDM 2026) [[Code](https://github.com/FanBroWell/CAST)]
 
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
